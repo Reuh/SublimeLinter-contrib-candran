@@ -1,0 +1,6 @@
+SublimeLinter-contrib-candran
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to canc -parse.
+
+For more information, please see:
+https://github.com/Reuh/SublimeLinter-contrib-candran
